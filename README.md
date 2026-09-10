@@ -1,44 +1,65 @@
-### 이준서 — Backend Developer
+<div align="center">
 
-## About Me
+# 안녕하세요, 이준서입니다 👋
+
+### Backend Developer
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Backend%20Developer%20who%20turns%20bottlenecks%20into%20architecture;Redis%20%2B%20RabbitMQ%20-%3E%20Coupon%20TPS%20up%2077%25;Virtual%20Threads%20-%3E%20Batch%20time%20down%209.2x" alt="Typing SVG" />
+
+<a href="mailto:oijs9663@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/OiJs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+<br>
+
+## 👤 About Me
 
 대용량 트래픽 처리와 분산 환경(MSA)에서 성능 최적화를 통해 서비스를 개선하는 백엔드 개발자입니다.
 
 정해진 구현에 안주하기보다, 병목 지점을 직접 측정하고 구조적으로 해결하는 데 집중합니다. Redis 기반 동시성 제어부터 가상 스레드 기반 배치 병렬화까지, 트래픽과 지연 문제를 아키텍처 레벨에서 풀어내는 개발자가 되고자 합니다.
 
-- 조선대학교 전자공학부(지능형 IoT전공) 학사 졸업
-- NHN Academy — JavaBackend 12기 수료 · AIOT 웹서비스 개발자(Java AIOT 03기) 과정 수료
-- oijs9663@gmail.com
+- 🏫 조선대학교 전자공학부(지능형 IoT전공) 학사 졸업
+- 🎓 NHN Academy — JavaBackend 12기 수료 · AIOT 웹서비스 개발자(Java AIOT 03기) 과정 수료
+- 📫 oijs9663@gmail.com
 
-## Tech Stack
+<br>
+
+## 🛠 Tech Stack
+
+<div align="center">
 
 **Language & Framework**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Batch](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 
 **Data & Messaging**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white"/>
 
 **Infra & DevOps**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
 
-## Featured Projects
+</div>
 
-### Book2OnAndOn — Coupon Service | MSA 기반 도서 이커머스 플랫폼
+<br>
+
+## 🚀 Featured Projects
+
+### 📦 Book2OnAndOn — Coupon Service | MSA 기반 도서 이커머스 플랫폼
 
 대규모 트래픽을 고려한 도서 이커머스 플랫폼의 쿠폰·배치 서비스 · 2025.11 ~ 2025.12 · 7주 · 7인 협업
 역할: Coupon Service 리드 개발 · User Service Batch 설계 (137 commits · 기여도 93%)
@@ -67,11 +88,14 @@ Tech · Java 21 · Spring Boot 3.x · Spring Data JPA · PostgreSQL · Redis · 
 - 해결 · JPQL JOIN FETCH + @BatchSize(100) IN절 배치 처리
 - 결과 · 쿼리 11회 → 1회(90.9% 감소)
 
-[GitHub](https://github.com/nhnacademy-be12-Book2OnAndOn/Book2OnAndOn-coupon-service) · [Live Demo](https://book2onandon.shop)
+<p>
+<a href="https://github.com/nhnacademy-be12-Book2OnAndOn/Book2OnAndOn-coupon-service"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://book2onandon.shop"><img src="https://img.shields.io/badge/Live%20Demo-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+</p>
 
 ---
 
-### InsightOn — 스마트 오피스 IoT 관제 플랫폼
+### 🏢 InsightOn — 스마트 오피스 IoT 관제 플랫폼
 
 IoT 센서 데이터 기반 실시간 위험 감지 및 AI 리포트 생성 플랫폼 · 2026.07 ~ 2026.09 · 11주 · 8인 협업
 역할: InsightOn-ai(AI 서비스) 리드 개발 · InsightOn-core(게이트웨이) 일부 (171 commits · 기여도 96%+)
@@ -98,13 +122,35 @@ Tech · Spring Boot 3.x · Spring AI(Google Gemini) · Spring Data JPA · Postgr
 - 해결 · 모든 패턴을 하나의 프롬프트로 묶어 LLM 호출 1회로 구조화된 결정 리스트 일괄 수신
 - 결과 · 패턴 3개 동시 발생 케이스에서도 LLM 호출 1회 고정 검증
 
-[GitHub](https://github.com/nhnacademy-aiot3-insighton/InsightOn-ai) · [Live Demo](https://insighton.store)
+<p>
+<a href="https://github.com/nhnacademy-aiot3-insighton/InsightOn-ai"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://insighton.store"><img src="https://img.shields.io/badge/Live%20Demo-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+</p>
 
-## GitHub Activity
+<br>
 
-![OiJs's contribution graph](https://ghchart.rshah.org/OiJs)
+## 📊 GitHub Stats
 
-## Certifications
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=OiJs&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=OiJs&theme=default&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OiJs&layout=compact&theme=default&hide_border=true" width="49%" />
+
+### 🌱 Contribution Graph
+
+<img src="https://ghchart.rshah.org/6DB33F/OiJs" alt="OiJs's contribution graph" width="90%"/>
+
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=OiJs&theme=flat&no-frame=true&row=1&column=6&margin-w=8" />
+
+</div>
+
+<br>
+
+## 📜 Certifications
 
 | 자격 | 발급 기관 | 취득일 |
 |---|---|---|
