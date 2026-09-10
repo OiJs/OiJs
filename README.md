@@ -6,9 +6,9 @@
 
 정해진 구현에 안주하기보다, 병목 지점을 직접 측정하고 구조적으로 해결하는 데 집중합니다. Redis 기반 동시성 제어부터 가상 스레드 기반 배치 병렬화까지, 트래픽과 지연 문제를 아키텍처 레벨에서 풀어내는 개발자가 되고자 합니다.
 
-- 🏫 조선대학교 전자공학부(지능형 IoT전공) 학사 졸업
-- 🎓 NHN Academy — JavaBackend 12기 수료 · AIOT 웹서비스 개발자(Java AIOT 03기) 과정 수료
-- 📫 oijs9663@gmail.com
+- 조선대학교 전자공학부(지능형 IoT전공) 학사 졸업
+- NHN Academy — JavaBackend 12기 수료 · AIOT 웹서비스 개발자(Java AIOT 03기) 과정 수료
+- oijs9663@gmail.com
 
 ## Tech Stack
 
