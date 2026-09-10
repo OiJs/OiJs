@@ -4,7 +4,7 @@
 
 ### Backend Developer
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Backend%20Developer%20who%20turns%20bottlenecks%20into%20architecture;Redis%20%2B%20RabbitMQ%20-%3E%20Coupon%20TPS%20up%2077%25;Virtual%20Threads%20-%3E%20Batch%20time%20down%209.2x" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6DB33F&center=true&vCenter=true&width=900&lines=Backend%20Developer%20who%20turns%20bottlenecks%20into%20architecture;Redis%20%2B%20RabbitMQ%20-%3E%20Coupon%20TPS%20up%2077%25;Virtual%20Threads%20-%3E%20Batch%20time%20down%209.2x" alt="Typing SVG" />
 
 <a href="mailto:oijs9663@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/OiJs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -135,9 +135,13 @@ Tech · Spring Boot 3.x · Spring AI(Google Gemini) · Spring Data JPA · Postgr
 
 <img src="https://streak-stats.demolab.com/?user=OiJs&theme=default&hide_border=true" width="60%" />
 
-### 🌱 Contribution Graph
+### 🐍 Contribution Snake
 
-<img src="https://ghchart.rshah.org/6DB33F/OiJs" alt="OiJs's contribution graph" width="90%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OiJs/OiJs/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OiJs/OiJs/output/github-contribution-grid-snake.svg" />
+  <img alt="OiJs's contribution snake" src="https://raw.githubusercontent.com/OiJs/OiJs/output/github-contribution-grid-snake.svg" width="90%" />
+</picture>
 
 </div>
 
