@@ -1,6 +1,6 @@
 <div align="center">
 
-# 안녕하세요, 이준서입니다 👋
+# 안녕하세요, 이준서입니다
 
 ### Backend Developer
 
@@ -13,15 +13,15 @@
 
 <br>
 
-## 👤 About Me
+## About Me
 
 대용량 트래픽 처리와 분산 환경(MSA)에서 성능 최적화를 통해 서비스를 개선하는 백엔드 개발자입니다.
 
 정해진 구현에 안주하기보다, 병목 지점을 직접 측정하고 구조적으로 해결하는 데 집중합니다. Redis 기반 동시성 제어부터 가상 스레드 기반 배치 병렬화까지, 트래픽과 지연 문제를 아키텍처 레벨에서 풀어내는 개발자가 되고자 합니다.
 
-- 🏫 조선대학교 전자공학부(지능형 IoT전공) 학사 졸업
-- 🎓 NHN Academy — JavaBackend 12기 수료 · AIOT 웹서비스 개발자(Java AIOT 03기) 과정 수료
-- 📫 oijs9663@gmail.com
+- 조선대학교 전자공학부(지능형 IoT전공) 학사 졸업
+- NHN Academy — JavaBackend 12기 수료 · AIOT 웹서비스 개발자(Java AIOT 03기) 과정 수료
+- oijs9663@gmail.com
 
 <br>
 
@@ -57,9 +57,9 @@
 
 <br>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📦 Book2OnAndOn — Coupon Service | MSA 기반 도서 이커머스 플랫폼
+### Book2OnAndOn — Coupon Service | MSA 기반 도서 이커머스 플랫폼
 
 대규모 트래픽을 고려한 도서 이커머스 플랫폼의 쿠폰·배치 서비스 · 2025.11 ~ 2025.12 · 7주 · 7인 협업
 역할: Coupon Service 리드 개발 · User Service Batch 설계 (137 commits · 기여도 93%)
@@ -95,7 +95,7 @@ Tech · Java 21 · Spring Boot 3.x · Spring Data JPA · PostgreSQL · Redis · 
 
 ---
 
-### 🏢 InsightOn — 스마트 오피스 IoT 관제 플랫폼
+### InsightOn — 스마트 오피스 IoT 관제 플랫폼
 
 IoT 센서 데이터 기반 실시간 위험 감지 및 AI 리포트 생성 플랫폼 · 2026.07 ~ 2026.09 · 11주 · 8인 협업
 역할: InsightOn-ai(AI 서비스) 리드 개발 · InsightOn-core(게이트웨이) 일부 (171 commits · 기여도 96%+)
@@ -142,7 +142,7 @@ Tech · Spring Boot 3.x · Spring AI(Google Gemini) · Spring Data JPA · Postgr
 
 <img src="https://ghchart.rshah.org/6DB33F/OiJs" alt="OiJs's contribution graph" width="90%"/>
 
-### 🏆 Trophies
+### Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=OiJs&theme=flat&no-frame=true&row=1&column=6&margin-w=8" />
 
@@ -150,7 +150,7 @@ Tech · Spring Boot 3.x · Spring AI(Google Gemini) · Spring Data JPA · Postgr
 
 <br>
 
-## 📜 Certifications
+## Certifications
 
 | 자격 | 발급 기관 | 취득일 |
 |---|---|---|
