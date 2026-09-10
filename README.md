@@ -135,13 +135,9 @@ Tech · Spring Boot 3.x · Spring AI(Google Gemini) · Spring Data JPA · Postgr
 
 <img src="https://streak-stats.demolab.com/?user=OiJs&theme=default&hide_border=true" width="60%" />
 
-### 🐍 Contribution Snake
+### 🌱 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OiJs/OiJs/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OiJs/OiJs/output/github-contribution-grid-snake.svg" />
-  <img alt="OiJs's contribution snake" src="https://raw.githubusercontent.com/OiJs/OiJs/output/github-contribution-grid-snake.svg" width="90%" />
-</picture>
+<img src="https://ghchart.rshah.org/6DB33F/OiJs" alt="OiJs's contribution graph" width="100%"/>
 
 </div>
 
