@@ -133,18 +133,11 @@ Tech · Spring Boot 3.x · Spring AI(Google Gemini) · Spring Data JPA · Postgr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OiJs&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=OiJs&theme=default&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OiJs&layout=compact&theme=default&hide_border=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=OiJs&theme=default&hide_border=true" width="60%" />
 
 ### 🌱 Contribution Graph
 
 <img src="https://ghchart.rshah.org/6DB33F/OiJs" alt="OiJs's contribution graph" width="90%"/>
-
-### Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=OiJs&theme=flat&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
